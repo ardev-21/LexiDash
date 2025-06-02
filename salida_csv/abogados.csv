@@ -1,0 +1,55 @@
+ID Abogado,Nombre,Edad,Rama Legal,Género,Años de Experiencia,Especialización,Contacto,Email,Estado
+1,Roberto Mínguez,33,Penal,Masculino,3,Narcotráfico,+34874814990,pcorral@example.net,En licencia
+2,Rebeca Cortina,30,Penal,Femenino,9,Violencia de género,+34885 92 60 39,cirino79@example.com,Activo
+3,Lorenzo Puga,38,Penal,Masculino,7,Fraude,+34740 561 790,jose60@example.org,En licencia
+4,Cirino Ayala,37,Penal,Masculino,17,Violencia de género,+34 920 215 274,bautista22@example.net,Activo
+5,África Azorin,25,Civil,Femenino,2,Sucesiones y herencias,+34 844557864,xlloret@example.com,Inactivo
+6,Juan Bautista Carranza,34,Civil,Masculino,6,Reclamación por deuda,+34 822 43 87 77,julietahernando@example.org,Activo
+7,Amando Báez,31,Civil,Masculino,5,Reclamación por deuda,+34820916574,abadhernando@example.org,En licencia
+8,Efraín Múgica,27,Civil,Masculino,7,Arrendamientos,+34 922 28 42 99,tnavarrete@example.net,Activo
+9,Macaria Gomis,49,Civil,Otro,5,Arrendamientos,+34901 184 653,mirallescamila@example.org,Inactivo
+10,Montserrat Ibarra,70,Laboral,Femenino,4,Despido injustificado,+34828565349,jose57@example.com,En licencia
+11,Desiderio Feijoo,43,Laboral,Masculino,2,Acoso laboral,+34 734 14 18 09,guillermo83@example.net,Activo
+12,Aníbal Barriga,54,Laboral,Masculino,23,Acoso laboral,+34 807 64 45 64,estradaaureliano@example.com,Inactivo
+13,Ibán Vega,67,Laboral,Masculino,17,Accidente de trabajo,+34 828 629 034,facevedo@example.com,En licencia
+14,Clementina Godoy,35,Mercantil,Femenino,17,Registro de marca,+34843 112 981,xavier14@example.net,Activo
+15,Javi Ferrán,49,Mercantil,Masculino,17,Registro de marca,+34649349622,vivianarivas@example.com,En licencia
+16,Francisca Leon,28,Administrativo,Femenino,3,Sanción administrativa,+34 880 019 469,noealemany@example.org,Inactivo
+17,Severino Alemany,29,Administrativo,Masculino,3,Responsabilidad patrimonial del Estado,+34981 58 06 93,imaldonado@example.net,En licencia
+18,Tiburcio Beltran,66,Administrativo,Masculino,31,Multas municipales,+34 885 24 62 35,fernando35@example.com,En licencia
+19,Juan Prieto,33,Constitucional,Masculino,7,Conflicto de competencias,+34 985 44 08 31,fbastida@example.com,En licencia
+20,Lola Portero,62,Constitucional,Femenino,27,Habeas corpus,+34820 530 328,joeljorda@example.org,Inactivo
+21,Cristian Fuente,33,Constitucional,Masculino,15,Acción de amparo,+34974 36 14 43,placidolopez@example.org,Activo
+22,Jovita Torrecilla,34,Constitucional,Femenino,5,Conflicto de competencias,+34984 98 15 09,ftapia@example.com,Inactivo
+23,Manola Fortuny,49,Constitucional,Femenino,24,Habeas corpus,+34 880921983,natalio43@example.com,Inactivo
+24,Rogelio Correa,25,Internacional Público,Otro,1,Conflictos fronterizos,+34 848 39 61 52,conchaasenjo@example.net,En licencia
+25,Jimena Franco,66,Internacional Público,Femenino,21,Litigio entre Estados,+34867317289,julie97@example.com,Inactivo
+26,Román Valle,54,Internacional Público,Masculino,0,Conflictos fronterizos,+34748277900,danguita@example.org,En licencia
+27,Atilio Cases,57,Internacional Público,Masculino,11,Refugiados y asilo,+34 975 806 334,rebeca91@example.com,Activo
+28,Pía Leon,57,Internacional Privado,Femenino,38,Divorcio internacional,+34 821 49 23 07,pastorguardiola@example.com,Activo
+29,Elías Codina,35,Internacional Privado,Masculino,17,Adopción internacional,+34 881 04 42 35,vbarrena@example.net,Activo
+30,Carmelita Sevillano,56,Internacional Privado,Femenino,1,Conflicto de leyes,+34 827 07 57 16,macario39@example.com,Inactivo
+31,Petrona Velázquez,44,Internacional Privado,Femenino,7,Conflicto de leyes,+34800 603 542,ruth15@example.org,Activo
+32,Jose Luis Reguera,56,Ambiental,Masculino,4,Licencia ambiental,+34 943 942 699,zalegre@example.com,Activo
+33,Modesto Valera,55,Ambiental,Masculino,35,Evaluación de impacto ambiental,+34 886 36 56 24,roquecornejo@example.net,Inactivo
+34,Asdrubal Flor,59,Procesal,Otro,12,Revisión judicial,+34717 674 674,elisabetdiaz@example.net,Inactivo
+35,Humberto Vizcaíno,67,Procesal,Masculino,41,Ejecución de sentencia,+34 984835381,perla04@example.net,Inactivo
+36,Encarna Castañeda,53,Procesal,Femenino,7,Nulidad procesal,+34975 73 88 91,ani93@example.org,Activo
+37,Jose Luis Lucena,26,Procesal,Masculino,8,Nulidad procesal,+34 823 772 825,aliciapalomino@example.com,En licencia
+38,Emilio Castejón,29,Procesal,Masculino,11,Revisión judicial,+34 876 97 10 51,abrilani@example.com,Activo
+39,Jacobo Sarabia,27,Familia,Masculino,5,Divorcio,+34 942193922,xfabregas@example.net,En licencia
+40,Hipólito Sastre,67,Familia,Masculino,31,Custodia de menores,+34875865614,beltranconstanza@example.net,En licencia
+41,Celestino Yáñez,61,Familia,Masculino,36,Adopción,+34689 43 73 75,dtome@example.com,Activo
+42,Cloe Gual,37,Notarial y Registral,Femenino,3,Escritura pública,+34983914595,cdominguez@example.org,En licencia
+43,Lope Grande,52,Notarial y Registral,Masculino,26,Legalización de documentos,+34 824765481,adora69@example.net,En licencia
+44,Florentino Haro,66,Notarial y Registral,Masculino,41,Escritura pública,+34 946 51 06 37,oscarviana@example.org,Activo
+45,Maximiliano Flor,46,Notarial y Registral,Masculino,25,Escritura pública,+34 824 918 365,lmarquez@example.org,Activo
+46,Herberto Fabregat,59,Notarial y Registral,Masculino,28,Constitución de sociedad,+34 927 123 504,sanzseveriano@example.net,Inactivo
+47,Rogelio Torrijos,40,Seguridad Social,Masculino,2,Incapacidad permanente,+34 821 56 33 33,murmacarena@example.net,En licencia
+48,Melchor Caparrós,66,Seguridad Social,Masculino,34,Reclamación de pensión,+34946 947 910,albertojonatan@example.com,Activo
+49,Rocío Egea,40,Seguridad Social,Femenino,5,Incapacidad permanente,+34 941635493,nicodemo11@example.org,Inactivo
+50,Adán Esteve,50,Informático,Masculino,3,Protección de datos personales,+34 937 68 59 51,tfernandez@example.net,Inactivo
+51,Leopoldo Jove,49,Informático,Masculino,16,Suplantación digital,+34864 86 96 49,luisvilar@example.com,Inactivo
+52,Teo Téllez,60,Informático,Masculino,42,Contrato de software,+34985 72 65 10,castrillonoe@example.org,Inactivo
+53,Valerio Villena,43,Informático,Masculino,6,Delito informático,+34 981311598,cristianespejo@example.org,En licencia
+54,Florentina Ayala,28,Informático,Femenino,5,Delito informático,+34838 228 655,wperea@example.com,Activo
